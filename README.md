@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on finishing school, writing awesome code, and finding work after graduation!
-- 📫 How to reach me: [trastogi6@gatech.edu](mailto:trastogi6@gatech.edu)
 - 💬 Visit my website [Movie Reviews](https://www.tanishsmoviereviews.com)! Posting a new review every month! Send me your feedback about the site and especially your film opinions!
 
 My repositories:
